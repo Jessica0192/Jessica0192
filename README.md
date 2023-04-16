@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello there! ✨Welcome to my GitHub page. I'm thrilled to have you here! My name is Jessica Sim, a recent graduate of the Software Engineering Technology program. As a software developer with 16 months of co-op experience, I'm passionate about creating cutting-edge software solutions that make an impact in the tech industry.
+Welcome to my GitHub page✨ I'm thrilled to have you here! My name is Jessica Sim, a recent graduate of the Software Engineering Technology program. As a software developer with 16 months of co-op experience, I'm passionate about creating cutting-edge software solutions that make an impact in the tech industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-sim-010121)
